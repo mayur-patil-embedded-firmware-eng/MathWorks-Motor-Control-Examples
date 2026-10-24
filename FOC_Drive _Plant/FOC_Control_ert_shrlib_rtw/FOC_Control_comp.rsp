@@ -1,0 +1,7 @@
+-I"C:/Users/BitCore/Matlab_workspace/Field_Oriented_Control_Model/FOC_Drive _Plant"
+-I"C:/Users/BitCore/Matlab_workspace/Field_Oriented_Control_Model/FOC_Drive _Plant/FOC_Control_ert_shrlib_rtw"
+-I"C:/Program Files/MATLAB/R2024b/extern/include"
+-I"C:/Program Files/MATLAB/R2024b/simulink/include"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/src"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/src/ext_mode/common"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/ert"

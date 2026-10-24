@@ -1,0 +1,15 @@
+        EXPORTS
+        FOC_Control_M
+        FOC_Control_U
+        FOC_Control_Y
+    FOC_Control_initialize
+            FOC_Control_step
+        FOC_Control_terminate
+
+
+                                Ki_dq
+                        Ki_w
+                        Kp_dq
+                        Kp_w
+
+

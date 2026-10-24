@@ -6,7 +6,16 @@
 %  Variables created here are the ones the saved model references by name:
 %     Ts, Kp_dq, Ki_dq, Vmax, Iq_max, Kp_w, Ki_w, Spd_ref_tau   (+ Vdc for reference)
 % ========================================================================
-
+%% Teknic M-2310P-LN-04K PMSM Motor Parameters
+% Motor Model       : Teknic M-2310P-LN-04K
+% Motor Type        : Permanent Magnet Synchronous Motor (PMSM)
+% Rated Voltage     : 40 V
+% Rated Speed       : 6000 RPM
+% Rated Torque      : 0.247 N.m (reference value; verify manufacturer datasheet)
+% Rated Power       : 170 W
+% Continuous Current: 7.1 A
+% Number of Pole Pairs: 4
+% Rated Torque Ref. : 0.247 N.m
 %% ---------------- 0. OPTIONS -------------------------------------------
 FOC_dtype     = 'double';   % data type of tunable parameters. The saved model is
                             % built in double; use 'single' only after the model
